@@ -3,7 +3,6 @@ import React from 'react';
 
 const Home: React.FunctionComponent = () => {
     document.title = "Home";
-    var eplod_id = sessionStorage.getItem("eplod_id");
 
 
     return (
